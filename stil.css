@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* CSS Document */
+p {
+	color: gray;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	font-size: 20px; 
+	line-height: 22px;
+	width: 600px;
+	background-color: antiquewhite;
+	padding: 20px;
+}
+.paragraf_2 {color: azure; background-color: rgba(255, 255, 255, 1)} 
+.novi_blok {
+	background-color: rgba(255, 255, 255, 1);
+	padding: 20px;
+	margin: 20px;
+	width: 50%;
+	
+}
+h1, h2, h3 {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: midnightblue;
+	}
+body {
+	background-image: url("background.jpg")
+}
+a {
+	color: indigo;
+	background-color: darkgray;
+	padding: 15px;
+	line-height: 40px;
+	border: thick #323F58;
+}
+a:hover {
+	 background-color: azure;
+}
+img{
+	height: 300px;
+}
+
+
